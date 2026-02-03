@@ -43,8 +43,7 @@ All new records follow the unified schema design principles and include proper s
 ### New Impact Links Added (4 total)
 | # | Related Indicator | Pillar | Impact | Magnitude | Lag | Parent Event |
 |---|-------------------|--------|--------|-----------|-----|--------------|
-
-| 1 | USG_P2P_COUNT |USAGE | Increase | high |24 | EVT_0012 |
+| 1 | USG_P2P_COUNT | USAGE | Increase | high |24 | EVT_0012 |
 | 2 | ACC_MM_ACCOUNT | ACCESS | Increase | medium | 6 | EVT_0011 |
 | 3 | ACC_OWNERSHIP | ACCESS | Increase | high | 12 | EVT_0011 |
 | 4 | GEN_GAP_ACC | USAGE | Increase | High | 7 months | EVT_0013 |
