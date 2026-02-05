@@ -31,7 +31,6 @@ wheels/
 
 # Data
 data/
-models/
 reports/figures/
 
 # Environment
