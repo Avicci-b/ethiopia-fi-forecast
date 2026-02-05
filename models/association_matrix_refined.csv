@@ -1,0 +1,14 @@
+record_id,event_name,category,observation_date,USG_P2P_COUNT,ACC_FAYDA,ACC_4G_COV,USG_ATM_COUNT,ACC_MM_ACCOUNT,USG_P2P_VALUE,USG_MPESA_USERS,USG_CROSSOVER,USG_TELEBIRR_USERS,GEN_GAP_ACC,USG_MPESA_ACTIVE,ACC_Digital_Delivery,USG_ATM_VALUE,FI.ACC.OWN.TOTL_M,AFF_DATA_INCOME,ACC_OWNERSHIP
+EVT_0001,Telebirr Launch,product_launch,2021-05-17,25.0,0,0,0,0,0,0,0,15.0,0,0,0,0,0,0,15.0
+EVT_0002,Safaricom Ethiopia Commercial Launch,market_entry,2022-08-01,0,0,15.0,0,0,0,0,0,0,0,0,0,0,0,20.0,0
+EVT_0003,M-Pesa Ethiopia Launch,product_launch,2023-08-01,0,0,0,0,5.0,0,15.0,0,0,0,0,0,0,0,0,0
+EVT_0004,Fayda Digital ID Program Rollout,infrastructure,2024-01-01,0,0,0,0,0,0,0,0,0,2.9,0,0,0,0,0,10.0
+EVT_0005,Foreign Exchange Liberalization,policy,2024-07-29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30.0,0
+EVT_0006,P2P Transaction Count Surpasses ATM,milestone,2024-10-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EVT_0007,M-Pesa EthSwitch Integration,partnership,2025-10-27,10.0,0,0,0,0,0,0,0,0,0,15.0,0,0,0,0,0
+EVT_0008,EthioPay Instant Payment System Launch,infrastructure,2025-12-18,15.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EVT_0009,NFIS-II Strategy Launch,policy,2021-09-01,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EVT_0010,Safaricom Ethiopia Price Increase,pricing,2025-12-15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10.0,0
+EVT_0011,Promote Access to Finance,partnership,2023-08-08,0,0,0,0,6.3,0,0,0,0,0,0,0,0,0,0,15.1
+EVT_0012,Interst rate,policy,2024-07-09,55020004.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+EVT_0013,Account Ownership Gender Gap,policy,2020-07-08,0,0,0,0,0,0,0,0,0,15.0,0,0,0,0,0,0
