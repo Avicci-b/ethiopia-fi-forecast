@@ -1,0 +1,12 @@
+event_name,category,observation_date,USG_P2P_COUNT,ACC_FAYDA,ACC_4G_COV,USG_ATM_COUNT,ACC_MM_ACCOUNT,USG_P2P_VALUE,USG_MPESA_USERS,USG_CROSSOVER,USG_TELEBIRR_USERS,GEN_GAP_ACC,USG_MPESA_ACTIVE,ACC_Digital_Delivery,USG_ATM_VALUE,FI.ACC.OWN.TOTL_M,AFF_DATA_INCOME,ACC_OWNERSHIP
+Account Ownership Gender Gap,policy,2020-07-08,0,0,0,0,0,0,0,0,0,15.0,0,0,0,0,0,0
+Telebirr Launch,product_launch,2021-05-17,25.0,0,0,0,0,0,0,0,15.0,0,0,0,0,0,0,15.0
+Safaricom Ethiopia Commercial Launch,market_entry,2022-08-01,0,0,15.0,0,0,0,0,0,0,0,0,0,0,0,20.0,0
+M-Pesa Ethiopia Launch,product_launch,2023-08-01,0,0,0,0,5.0,0,15.0,0,0,0,0,0,0,0,0,0
+Promote Access to Finance,partnership,2023-08-08,0,0,0,0,10.0,0,0,0,0,0,0,0,0,0,0,20.0
+Fayda Digital ID Program Rollout,infrastructure,2024-01-01,0,0,0,0,0,0,0,0,0,5.0,0,0,0,0,0,10.0
+Interst rate,policy,2024-07-09,15.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Foreign Exchange Liberalization,policy,2024-07-29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30.0,0
+M-Pesa EthSwitch Integration,partnership,2025-10-27,10.0,0,0,0,0,0,0,0,0,0,15.0,0,0,0,0,0
+Safaricom Ethiopia Price Increase,pricing,2025-12-15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10.0,0
+EthioPay Instant Payment System Launch,infrastructure,2025-12-18,15.0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
